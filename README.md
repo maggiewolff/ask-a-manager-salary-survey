@@ -1,5 +1,7 @@
 # ask-a-manager-salary-survey
 
+[Blog post summary & tutorial.](https://data-storyteller.medium.com/data-science-project-tutorial-exploring-analytics-data-science-salary-data-23ee3b9b7de1?sk=ecb1c02ed694fc688623a925e9a822ab) 
+
 Every year, the Ask a Manager blog does a [salary survey](https://www.askamanager.org/2023/04/how-much-money-do-you-make-6.html) and shares the raw data with anyone who wants to view it.
 
 I decided to explore the data from the 2023 survey to see what I could learn about Analytics & Data Science salaries, and also how the industry compares to other jobs.
